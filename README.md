@@ -25,9 +25,6 @@ To answer complex, multi-faceted business problems by performing a deep-dive ana
 
 ![Sales Analytics Dashboard](screenshots/dashboard_overview.png)
 
-## 🎥 Demo Video
-PASTE_YOUR_LINKEDIN_VIDEO_LINK_HERE
-
 ## 🛠️ Tools Used
 Power BI, Python (pandas), Excel/CSV
 
