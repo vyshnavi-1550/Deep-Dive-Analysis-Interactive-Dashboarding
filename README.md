@@ -19,7 +19,6 @@ To answer complex, multi-faceted business problems by performing a deep-dive ana
 
 ## 📊 Interactive Dashboard
 - **Tool:** Power BI
-- **Live link:** PASTE_YOUR_DASHBOARD_LINK_HERE
 - **Filters:** City, Category, Gender
 - **Visuals:** KPI Cards, Total Revenue by Category, Sales by City, Monthly Sales Trend, Age Group vs Revenue, Gender Split
 
